@@ -1,7 +1,7 @@
 # remote-sensing-of-spatial-data-using-pythonSupplemental Material
 ===============================
 
-Jupyter Notebooks to support "Remote Sensing Programming with Python" workshop.
+Jupyter Notebooks to support "Remote Sensing Programming with Python".
 
 Requirements
 --------------
